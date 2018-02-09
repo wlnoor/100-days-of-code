@@ -16,3 +16,9 @@
 **Today's Progress**: Fixed bugs on update data, my ajax is not working, but now I fix it and, tada I managed to do it
 **Thoughts:**: Yesterday I did not have time to continue the challenge 100 days of code, because too tired to work all day, now I take time to redeem it, and finally simple crud application with ajax I managed to make. it's time to take further lessons!!!
 **Link(s) to work**: [crud ajax](https://github.com/wlnoor/crud-ajax.git)
+
+### Day 4: 09 February, 2018
+
+**Today's Progress**: I'm learn about API's and JSON with Padding
+**Thoughts:**: I hope I can implement it by creating android apps, by starting to understand the basis of the API's
+**Link(s) to work**: [basic api](https://github.com/wlnoor/basic-api.git)
