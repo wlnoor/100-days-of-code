@@ -22,3 +22,9 @@
 **Today's Progress**: I'm learn about API's and JSON with Padding
 **Thoughts:**: I hope I can implement it by creating android apps, by starting to understand the basis of the API's
 **Link(s) to work**: [basic api](https://github.com/wlnoor/basic-api.git)
+
+### Day 5: 12 February, 2018
+
+**Today's Progress**: yesterday I fell asleep after completing this API project, so did not have time to post it, and today I am still learning about this API
+**Thoughts:**: I hope I can implement it by creating android apps, by starting to understand the basis of the API's
+**Link(s) to work**: [basic api](https://github.com/wlnoor/basic-api.git)
