@@ -28,3 +28,9 @@
 **Today's Progress**: yesterday I fell asleep after completing this API project, so did not have time to post it, and today I am still learning about this API
 **Thoughts:**: I hope I can implement it by creating android apps, by starting to understand the basis of the API's
 **Link(s) to work**: [basic api](https://github.com/wlnoor/basic-api.git)
+
+### Day 6: 13 February, 2018
+
+**Today's Progress**: today I created the yii2 framework, and implements jquery and ajax for the frontend
+**Thoughts:**: Starting to implementation javascript, or jquery, ajax and Api to real aplication
+**Link(s) to work**: [yii-2 with frontend js](https://github.com/wlnoor/yii-ajax.git)
