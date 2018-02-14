@@ -34,3 +34,10 @@
 **Today's Progress**: today I created the yii2 framework, and implements jquery and ajax for the frontend
 **Thoughts:**: Starting to implementation javascript, or jquery, ajax and Api to real aplication
 **Link(s) to work**: [yii-2 with frontend js](https://github.com/wlnoor/yii-ajax.git)
+
+
+### Day 7: 14 February, 2018
+
+**Today's Progress**: Begin to implement yii2 with javascript and ajax
+**Thoughts:**: i can do it
+**Link(s) to work**: [yii-2 with frontend js](https://github.com/wlnoor/yii-ajax.git)
