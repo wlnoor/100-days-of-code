@@ -41,3 +41,9 @@
 **Today's Progress**: Begin to implement yii2 with javascript and ajax
 **Thoughts:**: i can do it
 **Link(s) to work**: [yii-2 with frontend js](https://github.com/wlnoor/yii-ajax.git)
+
+### Day 8: 16 February, 2018
+
+**Today's Progress**: Implementation Tabular input
+**Thoughts:**: I am trying to implement tabular input for gridview, then just implement it for ajax in comment input
+**Link(s) to work**: [yii-2 with frontend js](https://github.com/wlnoor/yii-ajax.git)
