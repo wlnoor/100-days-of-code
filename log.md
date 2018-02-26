@@ -47,3 +47,11 @@
 **Today's Progress**: Implementation Tabular input
 **Thoughts:**: I am trying to implement tabular input for gridview, then just implement it for ajax in comment input
 **Link(s) to work**: [yii-2 with frontend js](https://github.com/wlnoor/yii-ajax.git)
+
+# Reset Challenge
+# 100 Days Of Code - Log
+### Day 1: 27 February, 2018
+
+**Today's Progress**: im create new app android, name is miwok app. Learn with https://www.udacity.com/
+**Thoughts:**: trying to continue learning with json from the project that I made, and implement it with android apps
+**Link(s) to work**: [miwok apps](https://github.com/wlnoor/miwok-app.git)
