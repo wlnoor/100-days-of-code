@@ -55,3 +55,9 @@
 **Today's Progress**: im create new app android, name is miwok app. Learn with https://www.udacity.com/
 **Thoughts:**: trying to continue learning with json from the project that I made, and implement it with android apps
 **Link(s) to work**: [miwok apps](https://github.com/wlnoor/miwok-app.git)
+
+### Day 2: 28 February, 2018
+
+**Today's Progress**: im create new app android, name is miwok app. Learn with https://www.udacity.com/
+**Thoughts:**: Today Im learned a lot about recycling view, listview + arrayAdapter and more. I will try to implement it with website app that I previously created
+**Link(s) to work**: [miwok apps](https://github.com/wlnoor/miwok-app.git)
