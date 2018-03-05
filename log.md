@@ -67,3 +67,9 @@
 **Today's Progress**: im create new app android, name is miwok app. Learn with https://www.udacity.com/
 **Thoughts:**: Yeahh im create style for my miwok apps
 **Link(s) to work**: [miwok apps](https://github.com/wlnoor/miwok-app.git)
+
+### Day 6 March, 2018
+
+**Today's Progress**: Im learn about MediaPlayer in android
+**Thoughts:**: i want to add audio player feature on my android apps
+**Link(s) to work**: [miwok apps](https://github.com/wlnoor/miwok-app.git)
