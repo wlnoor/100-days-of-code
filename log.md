@@ -73,3 +73,9 @@
 **Today's Progress**: Im learn about MediaPlayer in android
 **Thoughts:**: i want to add audio player feature on my android apps
 **Link(s) to work**: [miwok apps](https://github.com/wlnoor/miwok-app.git)
+
+### Day 8 March, 2018
+
+**Today's Progress**: Im still learn about MediaPlayer in android
+**Thoughts:**: Try to implement audio player on my android apps.
+**Link(s) to work**: [miwok apps](https://github.com/wlnoor/miwok-app.git)
